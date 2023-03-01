@@ -1,2 +1,2 @@
-# -mailchimp-email-importer
+# mailchimp email importer
 bulk import sign ups to mailchimp
